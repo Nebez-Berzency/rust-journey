@@ -1,13 +1,14 @@
 # Rust Journey
 
 ## Basics
+- [x] Hello World
 - [ ] Variables
 - [ ] Functions
 - [ ] Ownership
 - [ ] Borrowing
 
 ## Algorithms
-- [ ] Fibonacci
+- [x] Fibonacci
 - [ ] Bubble Sort
 - [ ] Binary Search
 
