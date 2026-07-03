@@ -1,5 +1,8 @@
 mod basic_loop;
 
 fn main() {
-    basic_loop::run(10);
+    match basic_loop::run(4) {
+        Ok(_) =>  println!("Success!"),
+        Err(e) => println!("Error: {e}")
+    }
 }
