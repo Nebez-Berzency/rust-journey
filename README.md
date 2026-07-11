@@ -9,7 +9,7 @@
 
 ## Algorithms
 - [x] Fibonacci
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Binary Search
 
 ## Mini Projects
