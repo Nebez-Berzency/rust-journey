@@ -5,7 +5,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 ## Basics
 
 - [x] Hello World
-- [ ] Variables & Mutability
+- [x] Variables & Mutability
 - [ ] Data Types
 - [ ] Functions
 - [ ] Control Flow
