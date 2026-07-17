@@ -8,7 +8,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Variables & Mutability
 - [x] Data Types
 - [x] Functions
-- [ ] Control Flow
+- [x] Control Flow
 - [ ] Ownership
 - [ ] Borrowing
 - [ ] Slices
