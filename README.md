@@ -9,7 +9,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Data Types
 - [x] Functions
 - [x] Control Flow
-- [ ] Ownership
+- [x] Ownership
 - [ ] Borrowing
 - [ ] Slices
 - [ ] Structs & Enums
