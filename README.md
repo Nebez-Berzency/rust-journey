@@ -10,7 +10,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Functions
 - [x] Control Flow
 - [x] Ownership
-- [ ] Borrowing
+- [x] Borrowing
 - [ ] Slices
 - [ ] Structs & Enums
 - [ ] Pattern Matching
