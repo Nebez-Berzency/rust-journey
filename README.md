@@ -11,7 +11,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Control Flow
 - [x] Ownership
 - [x] Borrowing
-- [ ] Slices
+- [x] Slices
 - [ ] Structs & Enums
 - [ ] Pattern Matching
 - [ ] Error Handling
