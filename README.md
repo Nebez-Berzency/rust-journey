@@ -12,7 +12,8 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Ownership
 - [x] Borrowing
 - [x] Slices
-- [ ] Structs & Enums
+- [x] Structs
+- [ ] Enums & Matching
 - [ ] Pattern Matching
 - [ ] Error Handling
 - [ ] Modules & Crates
