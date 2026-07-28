@@ -13,7 +13,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Borrowing
 - [x] Slices
 - [x] Structs
-- [ ] Enums & Matching
+- [x] Enum & Matching
 - [ ] Pattern Matching
 - [ ] Error Handling
 - [ ] Modules & Crates
