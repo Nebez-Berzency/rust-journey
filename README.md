@@ -14,7 +14,6 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Slices
 - [x] Structs
 - [x] Enum & Matching
-- [ ] Pattern Matching
 - [ ] Error Handling
 - [ ] Modules & Crates
 
