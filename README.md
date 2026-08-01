@@ -15,7 +15,7 @@ A personal journey to learn Rust through fundamentals, algorithms, and practical
 - [x] Structs
 - [x] Enum & Matching
 - [x] Error Handling (Result and match)
-- [ ] Modules & Crates
+- [x] Modules
 
 ## Algorithms
 
